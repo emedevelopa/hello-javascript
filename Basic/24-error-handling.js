@@ -1,7 +1,7 @@
 /*
 Clase 6 en vídeo | 15/08/2024
 Clases (continuación) y manejo de errores
-https://www.twitch.tv/videos/2225058195?t=00h16m42s
+https://www.youtube.com/live/8p6SLAIgwZI?si=MS9o7qIhezx9NTQX&t=902
 */
 
 // Excepción
@@ -52,7 +52,7 @@ try {
 
 // throw
 
-// throw new Error("Se ha producido un error");
+// throw new Error("Se ha producido un error")
 
 function sumIntegers(a, b) {
     if (typeof a !== "number" || typeof b !== "number") {
