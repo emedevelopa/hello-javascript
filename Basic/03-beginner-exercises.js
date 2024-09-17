@@ -98,5 +98,9 @@ console.log(constantenNull);
 
 // 9. A continuación, modifica los valores de las constantes
 
+<<<<<<< HEAD
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
 // Las constantes no pueden cambiar de valor una vez se han inicializado.
+=======
+// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+>>>>>>> af1c97bc2ac92b5c42ce9a29a8ebd234e226ee90

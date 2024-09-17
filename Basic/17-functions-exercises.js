@@ -7,8 +7,17 @@ https://www.twitch.tv/videos/2212289583?t=00h17m45s
 // NOTA: Explora diferentes sintaxis de funciones para resolver los ejercicios
 
 // 1. Crea una función que reciba dos números y devuelva su suma
+function suma (a, b) {
+    return a + b
+}
+console.log(suma(8,3))
 
 // 2. Crea una función que reciba un array de números y devuelva el mayor de ellos
+let myArray = [12,43, 3, 56, 778]
+function numeroMayor (array) {
+    return Math.max(array)
+}
+console.log(numeroMayor(myArray))
 
 // 3. Crea una función que reciba un string y devuelva el número de vocales que contiene
 

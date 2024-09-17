@@ -55,7 +55,7 @@ myArray = []
 
 // push y pop
 
-myArray.push("Brais")
+myArray.push("Brais") //Añade al final
 myArray.push("Moure")
 myArray.push("mouredev")
 myArray.push(37)
@@ -69,10 +69,10 @@ console.log(myArray)
 
 // shift y unshift
 
-console.log(myArray.shift())
+console.log(myArray.shift()) //Elimina el primer elemento
 console.log(myArray)
 
-myArray.unshift("Brais", "mouredev")
+myArray.unshift("Brais", "mouredev") //Añade al principio
 console.log(myArray)
 
 // length
